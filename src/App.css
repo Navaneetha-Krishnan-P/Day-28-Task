@@ -1,0 +1,87 @@
+
+.container{
+    margin: 100px ;
+}
+.topContainer{
+    display: flex;
+    column-gap: 50px;
+    
+}
+.image{
+    height: 250px;
+    width: 300px;
+}
+.container{
+    background-color: lightgrey;
+    padding: 50px;
+}
+.top ,.middle{
+    display: flex;
+    justify-content:space-between;
+    padding: 0px 60px;
+    column-gap: 300px;
+}
+.ddandprize{
+    display: flex;
+    column-gap: 40px;
+}
+.sub{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
+.removeButton{
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+}
+.col{
+    align-items: center;
+    margin: 100px;
+    
+   
+}
+.products{
+    display: grid;
+    
+}
+.pic{
+    height: 200px;
+    width: 300px;
+}
+.button2{
+    border: none;
+    border-radius: 5px;
+    padding: 5px 20px;
+    background-color: lightgrey;
+}
+.button1{
+    border: none;
+    border-radius: 5px;
+    padding: 5px 20px;
+    background-color: brown;
+    color: white;
+}
+.total{
+    padding:20px 50px 50px 700px;
+    border: 1px solid lightgrey;
+    background-color: lightgrey;
+    margin-top: 50px;
+    
+}
+button{
+    border-radius: 20px;
+    background-color: grey;
+    padding: 5px 10px;
+    
+}
+.qtybtn{
+    padding-top: 40px;
+}
+.nav-item{
+    padding-left: 100px;
+    margin: 20px;
+}
+
+
+
